@@ -3,10 +3,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wtt-kku&show_icons=true&theme=react)](https://github-readme-stats.vercel.app/api?username=wtt-kku&show_icons=true&theme=react)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@WTT)](https://github-readme-stats.vercel.app/api/wakatime?username=@WTT)
-
-
-
 
 ### Connect with me:
 
