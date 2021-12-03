@@ -21,7 +21,7 @@
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="MySQL" width="35px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" />
 <img align="left" alt="Codeigniter" width="35px" src="https://iconape.com/wp-content/files/bx/33981/svg/blackfire-inverted-1.svg" />
-<img align="left" alt="Laravel" width="35px" src="https://symbols.getvecta.com/stencil_87/8_laravel-icon.3f70de72f3.png" />
+<img align="left" alt="Laravel" width="35px" src="https://logos-download.com/wp-content/uploads/2016/09/Laravel_logo-700x508.png" />
 <img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="35px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mongodb_logo_icon_170943.png" />
