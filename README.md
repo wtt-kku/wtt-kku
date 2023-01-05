@@ -20,7 +20,7 @@
 <img align="left" alt="NestJS" width="35px" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="35px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
-<img align="left" alt="Golang" width="35px" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" />
+<img align="left" alt="Golang" width="35px" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" />
 <img align="left" alt="MySQL" width="35px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" />
 <img align="left" alt="Postgrest" width="35px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
 <img align="left" alt="MongoDB" width="35px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mongodb_logo_icon_170943.png" />
