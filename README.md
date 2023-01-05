@@ -16,7 +16,7 @@
 <br />
 <img align="left" alt="Node.JS" width="35px" src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" />
 <img align="left" alt="NextJS" width="35px" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" />
-<img align="left" alt="NestJS" width="35px" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" />
+<img align="left" alt="NestJS" width="35px" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="MySQL" width="35px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" />
 <img align="left" alt="Codeigniter" width="35px" src="https://iconape.com/wp-content/files/bx/33981/svg/blackfire-inverted-1.svg" />
